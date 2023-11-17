@@ -1,6 +1,6 @@
 # Programation Orintée Objet
 
-### Développeur :  @louis.becue.etu (Louis Becue)
+### Développeur :  @louisbecueetu (Louis Becue)
 
 Dépôt des rendus des tp de POO.
 
