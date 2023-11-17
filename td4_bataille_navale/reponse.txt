@@ -1,0 +1,17 @@
+Q1:
+un type enum
+public enum Answer{
+    MISSED, HIT, SUNK;
+}
+
+Q2:
+pas de bateau -> null
+
+Q3:
+pas de bateau -> MISSED
+bateau -> 1er tir ->HIT
+          2eme tir -> MISSED
+
+Q4:
+voir code
+
